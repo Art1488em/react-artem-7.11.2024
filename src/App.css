@@ -1,0 +1,27 @@
+.div{
+    display: flex;
+    justify-content: center;
+    gap: 180px;
+    margin-top: 140px;
+}
+
+.footer__text{
+    
+    img{
+        width: 24px;
+        height: 10px;
+       
+    }
+
+    h1{
+        font-size: 48px;
+        font-weight: 700;
+        margin-top: 100px;
+        margin-bottom: 25px;
+    }
+    p{
+        font-size: 24px;
+        font-weight: 400;
+        margin-bottom: 45px;
+    }
+}

@@ -1,0 +1,15 @@
+.logo__text{
+    margin-top: 160px;
+    margin-left: 820px;
+    margin-right: 500px;
+    p{
+        font-size: 16px;
+        font-weight: 300;
+    }
+}
+
+.logo__img{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}

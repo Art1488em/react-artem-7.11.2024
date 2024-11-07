@@ -1,0 +1,31 @@
+.menu{
+
+    display: flex;
+    justify-content: space-between;
+   margin-bottom: 100px;
+   gap: 200px;
+}
+.menu1{
+    h2{
+        width: 170px;
+        height: 24px;
+        margin-top: 50px;
+        margin-left: 190px;
+        font-size: 25px;
+        font-weight: 700;
+        
+    }
+}
+
+.menu2{
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+    margin-right: 180px;
+    p{
+        font-size: 25px;
+        height: 25px;
+        margin-top: 50px;
+        
+    }
+}

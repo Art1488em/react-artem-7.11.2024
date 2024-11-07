@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 0px;
+    color: black;
+    background-color: white;
+    border: none white;
+
+    @media (max-width: 1200px) {
+        
+    }
+}
+.c{
+    text-align: center;
+}
